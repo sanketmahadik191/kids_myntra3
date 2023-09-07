@@ -21,7 +21,12 @@ https://trishadas13.github.io/myntra/
 
 ## Credits
 
-List your collaborators,
+Trisha Das (Team Leader)
+Rakesh
+Satvik 
+Vikas 
+Sanket Mahadik
+Namisha
 
 ## Sections 
 
